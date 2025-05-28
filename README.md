@@ -1,4 +1,4 @@
 **Praktikum_alpro2**
-Nama  : Muhammad Alhambra Maulana
-NIM   : 240705004
-Algoritma dan Pemrograman
+<br>Nama  : Muhammad Alhambra Maulana
+<br>NIM   : 240705004
+<br>Algoritma dan Pemrograman
