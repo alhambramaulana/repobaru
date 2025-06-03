@@ -1,0 +1,2 @@
+# repobaru
+ini repo baruku
